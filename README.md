@@ -1,3 +1,4 @@
+![Project Banner](credit-default-banner.png)
 Credit Card Default Prediction
 
 This is a personal machine learning project where I worked on predicting whether a credit card client will default on their next payment. The dataset is from the UCI Machine Learning Repository and contains anonymized data on 30,000 credit card users in Taiwan.
