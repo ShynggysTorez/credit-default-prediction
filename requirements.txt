@@ -1,0 +1,8 @@
+# Basic requirements file for credit default project
+# These are the main libraries I used in the notebook
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
